@@ -21,7 +21,7 @@ function Bio() {
           <div
             style={{
               display: `flex`,
-              marginBottom: rhythm(2.5),
+              marginBottom: rhythm(1.5),
             }}
           >
             <Image
@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> hello.
+              Written by <strong>{author}</strong>. To document and guide myself with my natural hair journey. Midterm requirement for MMWRITE class.
               {` `}
             </p>
           </div>

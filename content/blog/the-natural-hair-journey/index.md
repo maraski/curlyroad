@@ -1,6 +1,6 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: The Natural Hair Journey
+date: "2019-06-14"
 ---
 
 This is my first post on my new fake blog! How exciting!

@@ -15,6 +15,9 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
+        <h4 style={{marginTop: rhythm(1)}}><Link style={{ boxShadow: `none` }} to="/about">
+          About
+        </Link></h4>
         <Bio />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
