@@ -12,6 +12,9 @@ Wordpress2016.overrideThemeStyles = () => {
     "h1": {
       color: `#166f67`,
     },
+    "ol": {
+      marginLeft: `initial`,
+    },
   }
 }
 
