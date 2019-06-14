@@ -5,9 +5,9 @@ date: "2019-06-12"
 
 ### Title
 
-| Tables        | Are           |
+|     Video     |     Audio     |
 | ------------- | ------------- |
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Scene 1:      | right-aligned |
+| Scene 2:      | centered      |
+| Scene 3:      | are neat      |
 

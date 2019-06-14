@@ -21,7 +21,7 @@ function Bio() {
           <div
             style={{
               display: `flex`,
-              marginBottom: rhythm(1.5),
+              marginBottom: rhythm(1),
             }}
           >
             <Image
@@ -30,7 +30,8 @@ function Bio() {
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                minWidth: 50,
+                minWidth: 70,
+                minHeight: 70,
                 borderRadius: `100%`,
               }}
               imgStyle={{
@@ -38,7 +39,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>. To document and guide myself with my natural hair journey. Midterm requirement for MMWRITE class.
+              Written by <strong>{author}</strong>. This is a blog to document and guide myself with my natural hair journey. Midterm requirement for MMWRITE class.
               {` `}
             </p>
           </div>
