@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import coolot from "../../content/assets/coolot.png"
 
 class BlogIndex extends React.Component {
   render() {
@@ -41,6 +42,13 @@ class BlogIndex extends React.Component {
             </div>
           )
         })}
+        <h3
+          style={{
+            marginBottom: rhythm(1 / 4), marginTop: rhythm(1),
+          }}
+        >You can't fight frizz, but you can prevent them</h3>
+        <small>Advertisment</small>
+        <img src={coolot} style={{width: '100%'}} alt="coolot styling gel"/>
       </Layout>
     )
   }

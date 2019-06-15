@@ -37,16 +37,16 @@ For CGM to be successful, you're going to have to do a final wash. The final was
 
 Now that you're all set, it's time to do the final wash. This will only be done **once**.
 
-1. **Use the shampoo or dishwashing liquid to wash your hair**. This is the most important step of the final wash.
+1. During shower, **use the shampoo or dishwashing liquid to wash your hair**. This is the most important step of the final wash.
 
 2. After the shampoo, **coat your hair with generous amount of conditioner**, making sure that every strand is coated. This is better done with your hair upside down.
 
 3. **Use your hands to squish the conditioner into your hair upwards to the roots**. This action will ensure that your hair will be thoroughly moisturized and your natural curl pattern will start to come out.
 
-4. **Rinse off about 3/4 the conditioner from your hair**. It's better to leave some of the conditioner on your hair, this will reduce the amount gels or styling products needed after.
+4. **Rinse off about 3/4 of the conditioner from your hair**. It's better to leave some of the conditioner on your hair, this will reduce the amount gels or styling products needed after.
 
 5. **Dry your hair with the microfiber towel or cotton t-shirt** using the same squishing upward motion you did with the conditioner. The goal is to reduce friction as much as possible.
 
 6. **Apply gel or any styling product** with the same squishing motion or with your palms touching together like you're praying, and go along the length of your hair, by sections.
 
-7. **Air dry**!
+7. **Air dry your hair for best results**.

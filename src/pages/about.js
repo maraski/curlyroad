@@ -20,6 +20,8 @@ class NotFoundPage extends React.Component {
                 <p>Mara Estalilla is a student from Manila taking AB-MMA in De La Salle - College of Saint Benilde. She created this blog to have somewhere to post about her progress and bits and pieces of new information she learns on the way to having healthy, natural hair.</p>
 
                 <p>She does the CGM or the Curly Girl Method made and popularized by Lorraine Massey. This method entails avoiding certain harmful chemicals in hair products and doing techniques to enhance the appearance of curls.</p>
+
+                <small style={{color: 'gray', fontStyle: 'italic'}}>Curly Girl Method or CGM is not a brand nor copyrighted. All images in this website are my own or used with permission from the rightful owner.</small>
             </Layout>
         )
     }
